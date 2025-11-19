@@ -23,7 +23,7 @@ Para fins de execução, os arquivos são acessados diretamente no notebook via 
 ________________________________________
 🚀 Como Executar o Notebook
 Para rodar este projeto e reproduzir os resultados, siga os passos abaixo:
-1.	Abrir no Colab: Clique no ícone "Abrir no Colab" ou vá para o seu arquivo no GitHub (Extensao_I_UNINTER.ipynb) e clique no botão "Open in Colab" (ou use a extensão Colab no Chrome).
+1.	Abrir no Colab: Clique no ícone "Abrir no Colab" ou vá para o seu arquivo no GitHub (Extensao_I_UNINTER (1).ipynb) e clique no botão "Open in Colab" (ou use a extensão Colab no Chrome).
 2.	Executar Células: Execute todas as células do notebook sequencialmente.
 ________________________________________
 📈 Principais Análises
