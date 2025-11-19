@@ -29,7 +29,6 @@ ________________________________________
 📈 Principais Análises
 O notebook apresenta as seguintes saídas visuais e estatísticas. São produzidos relatório final e relatórios parciais no decorrer da análise.
 ________________________________________
-________________________________________
 📖 Referências Contextuais
 Para análise de contexto e projeções de mercado de trabalho, foram utilizadas as seguintes fontes:
 •	World Economic Forum - Jobs Report 2025
